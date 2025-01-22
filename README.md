@@ -36,6 +36,6 @@ Deployed Database:
 https://goaltrackerdb.herokuapp.com/
 
 Database Github:
-https://github.com/kmkingdon/goal-tracking-db
+https://github.com/gauravverma9795/goal-tracker-DB
 
 
