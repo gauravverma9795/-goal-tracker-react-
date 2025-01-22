@@ -38,12 +38,4 @@ https://goaltrackerdb.herokuapp.com/
 Database Github:
 https://github.com/kmkingdon/goal-tracking-db
 
-# License
-MIT License Copyright (c) 2018 Kevin Kingdon
 
-# Author contact
-
-|<img src="https://user-images.githubusercontent.com/32685092/35702971-d0b4e966-0757-11e8-8098-c2819dff5e58.png" width="100"> | Kevin Kingdon                    |
-| ------------- | ------------- |
-| Website  | [kmkingdon.info](https://kmkingdon.info) |
-| LinkIn   | [/in/kevin-kingdon/](https://www.linkedin.com/in/kevin-kingdon/) |
